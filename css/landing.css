@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300italic,300,500,200,700,800,600,100&subset=latin,latin-ext);
+
+body
+{
+	background-image: url(Images/market.jpg);
+	background-size: 100%;
+}
+
+.container
+{
+	height: 1em;
+	width: 6em;
+	position: absolute;
+	top: 45%;
+	left: 35%;
+	padding: 2em;
+	box-shadow: 0px 0px 20px #000;
+	color: white;
+	font-family: Raleway;
+	background: #912900; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#912900, #bb5A24); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#912900, #bb5A24); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#912900, #bb5A24); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#912900, #bb5A24); /* Standard syntax */
+    border-radius: 0.3em;
+    cursor: url(Images/cursor.png) 20 20, auto;
+    transition: ease 2s;
+}
+
+.container:hover
+{
+	transform: scale(1.1);
+	transition: ease 1s;
+}
+
+.container2
+{
+	height: 1em;
+	width: 6em;
+	position: absolute;
+	top: 45%;
+	left: 55%;
+	padding: 2em;
+	box-shadow: 0px 0px 20px #000;
+	color: #fff;
+	font-family: Raleway;
+	background: #912900; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#912900, #bb5A24); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#912900, #bb5A24); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#912900, #bb5A24); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#912900, #bb5A24); /* Standard syntax */
+    border-radius: 0.3em;
+    cursor: url(cursor.png) 20 20, auto;
+    transition: ease 2s;
+}
+
+.container2:hover
+{
+	transform: scale(1.1);
+	transition: ease 2s;
+}

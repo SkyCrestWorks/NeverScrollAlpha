@@ -1,0 +1,503 @@
+{
+	"Monsters": [{
+			"desc": "<p><b>Wild Rat</b><br><em>'A rat that has become fierce while scurrying in the wild.'</em><br>Difficulty: Beginner</p>",
+			"id": "1",
+			"hp": "50",
+			"dmg": "10",
+			"amr": "0",
+			"exp": "80",
+			"prob": "1",
+            "mon": "300"
+		}, 
+        {
+			"desc": "<p><b>Wild Dog</b><br><em>'A wild dog affected by a madening disease.'</em><br>Difficulty: Beginner</p>",
+			"id": "2",
+			"hp": "50",
+			"dmg": "20",
+			"amr": "0",
+			"exp": "100",
+			"prob": "1",
+            "mon": "500"
+		}, 
+        {
+			"desc": "<p><b>Bear</b><br><em>'Just a wild bear.'</em><br>Difficulty: Novice</p>",
+			"id": "3",
+			"hp": "100",
+			"dmg": "50",
+			"amr": "0",
+			"exp": "120",
+			"prob": "1",
+            "mon": "1000"
+		}, 
+        {
+			"desc": "<p><b>Deprived Peasant</b><br><em>'A deprived peasant who robs, steals, and hurts for living.'</em><br>Difficulty: Novice</p>",
+			"id": "4",
+			"hp": "150",
+			"dmg": "20",
+			"amr": "0",
+			"exp": "150",
+			"prob": "1",
+            "mon": "100"
+		},
+        {
+			"desc": "<p><b>Adventurer</b><br><em>'An adventurer who seeks challenges and is not afraid of a fight or two. A worthy opponent.'</em><br>Difficulty: Novice</p>",
+			"id": "5",
+			"hp": "200",
+			"dmg": "20",
+			"amr": "5",
+			"exp": "180",
+			"prob": "1",
+            "mon": "2000"
+		}, 
+        {
+			"desc": "<p><b>Lone Bandit</b><br><em>'A bandit who has left his band and now attacks lone passersby.'</em><br>Difficulty: Amateur</p>",
+			"id": "6",
+			"hp": "300",
+			"dmg": "30",
+			"amr": "8",
+			"exp": "200",
+			"prob": "1",
+            "mon": "3000"
+ 		}, 
+        {
+			"desc": "<p><b>Tribal Hunter</b><br><em>'A hunter from the tribe of Hakagnki. A hunter with tribal instincts.'</em><br>Difficulty: Amateur.</p>",
+			"id": "7",
+			"hp": "350",
+			"dmg": "40",
+			"amr": "5",
+			"exp": "220",
+			"prob": "1",
+            "mon": "1500"
+		}, 
+        {
+			"desc": "<p><b>Grizzly Bear</b><br><em>'A wild Grizzly Bear.'</em><br>Difficulty: Adept</p>",
+			"id": "8",
+			"hp": "300",
+			"dmg": "50",
+			"amr": "2",
+			"exp": "250",
+			"prob": "1",
+            "mon": "1500"
+		}, 
+		{
+			"desc": "<p><b>Savage Wolf</b><br><em>'A ferocious, hungry beast.'</em><br>Difficulty: Adept</p>",
+			"id": "9",
+			"hp": "200",
+			"dmg": "60",
+			"amr": "0",
+			"exp": "280",
+			"prob": "1",
+            "mon": "4000"
+		},
+		{
+			"desc": "<p><b>Dwarf</b><br><em>'A paranoid dwarf who thinks everyone is out to steal his money. He must have a lot of gold but it's better to stay away.</em><br>Difficulty: Intermediate</p>",
+			"id": "10",
+			"hp": "400",
+			"dmg": "30",
+			"amr": "20",
+			"exp": "300",
+			"prob": "1",
+            "mon": "8000"
+		},
+        {
+			"desc": "<p>Bandit Leader<br><em>'A bandit leader in hunt for the Lone Bandit. He kills everyone who comes in his path.'</em><br>Difficulty: Adept</p>",
+			"id": "1",
+			"hp": "500",
+			"dmg": "80",
+			"amr": "20",
+			"exp": "320",
+			"prob": "2",
+            "mon": "4500"
+		},
+		{
+			"desc": "<p>Treant<br><em>'A monsterous tree that has been disturbed from its slumber.'</em><br>Difficulty: Adept</p>",
+			"id": "2",
+			"hp": "550",
+			"dmg": "100",
+			"amr": "30",
+			"exp": "350",
+			"prob": "2",
+            "mon": "2000"
+		},
+		{
+			"desc": "<p>Witch<br><em>'A deranged witch who has been practicing witchcraft & dark arts.'</em><br>Difficulty: Intermediate</p>",
+			"id": "3",
+			"hp": "600",
+			"dmg": "150",
+			"amr": "10",
+			"exp": "400",
+			"prob": "2",
+            "mon": "4500"
+		},
+		{
+			"desc": "<p>Skeleton Warrior<br><em>'Summoned by a necromancer, this creature attacks without thought or fear.'</em><br>Difficulty: Intermediate</p>",
+			"id": "4",
+			"hp": "650",
+			"dmg": "180",
+			"amr": "20",
+			"exp": "450",
+			"prob": "2",
+            "mon": "5000"
+		},
+		{
+			"desc": "<p>Ghoul<br><em>'An evil spirit that robs graves and feeds on dead bodies. But first, it makes you dead.'</em><br>Difficulty: Intermediate</p>",
+			"id": "5",
+			"hp": "700",
+			"dmg": "200",
+			"amr": "10",
+			"exp": "480",
+			"prob": "2",
+            "mon": "5500"
+		},
+		{
+			"desc": "<p>Hound<br><em>'A big dog that had been trained to hunt. It went rogue.'</em><br>Difficulty: Intermediate</p>",
+			"id": "6",
+			"hp": "750",
+			"dmg": "180",
+			"amr": "0",
+			"exp": "480",
+			"prob": "2",
+            "mon": "6000"
+		},
+		{
+			"desc": "<p>Giant Spider<br><em>'A giant spider that gathers various creatures to feed its queen. It has a preferential taste for human flesh.'</em><br>Difficulty: Intermediate</p>",
+			"id": "7",
+			"hp": "800",
+			"dmg": "200",
+			"amr": "0",
+			"exp": "500",
+			"prob": "2",
+            "mon": "6500"
+		},
+		{
+			"desc": "<p>Stone Golem<br><em>'A stone that was brought to life by uncany forces. It now sends the living to dead.'</em><br>Difficulty: Intermediate</p>",
+			"id": "8",
+			"hp": "1000",
+			"dmg": "350",
+			"amr": "40",
+			"exp": "1000",
+			"prob": "2",
+            "mon": "7000"
+		},
+		{
+			"desc": "<p>Satyr Archer<br><em>'A satyr defending its territory. Don't mess with the goat.'</em><br>Difficulty: Intermediate</p>",
+			"id": "9",
+			"hp": "850",
+			"dmg": "250",
+			"amr": "30",
+			"exp": "500",
+			"prob": "2",
+            "mon": "7500"
+		},
+		{
+			"desc": "<p>Soul Wraith<br><em>'Essence of passing spirits that siphon souls off the living.'</em><br>Difficulty: Intermediate</p>",
+			"id": "10",
+			"hp": "900",
+			"dmg": "280",
+			"amr": "10",
+			"exp": "550",
+			"prob": "2",
+            "mon": "8000"
+		},
+		{
+			"desc": "<p>Minotaur<br><em>'A minotaur who takes people's souls to the Labyrinth.'</em><br>Difficulty: Advanced</p>",
+			"id": "1",
+			"hp": "1500",
+			"dmg": "400",
+			"amr": "50",
+			"exp": "600",
+			"prob": "3",
+            "mon": "15000"
+		},
+		{
+			"desc": "<p>Banshee<br><em>'The harbinger of death. It wails every now and then.'</em><br>Difficulty: Advanced</p>",
+			"id": "2",
+			"hp": "1700",
+			"dmg": "450",
+			"amr": "20",
+			"exp": "650",
+			"prob": "3",
+            "mon": "17500"
+		},
+		{
+			"desc": "<p>Shade<br><em>'A shadow darker than darkness.'</em><br>Difficulty: Advanced</p>",
+			"id": "3",
+			"hp": "1900",
+			"dmg": "500",
+			"amr": "10",
+			"exp": "700",
+			"prob": "3",
+            "mon": "20000"
+		},
+		{
+			"desc": "<p>Necromancer<br><em>'The master of sorcery, dark arts, and the raiser of the dead. You feel the earth tremble.'</em><br>Difficulty: Advanced</p>",
+			"id": "4",
+			"hp": "2100",
+			"dmg": "550",
+			"amr": "30",
+			"exp": "750",
+			"prob": "3",
+            "mon": "22500"
+		},
+		{
+			"desc": "<p>Dark Elf<br><em>'An assassin of the high order of the elven empire. Flee if you can.'</em><br>Difficulty: Advanced</p>",
+			"id": "5",
+			"hp": "3000",
+			"dmg": "700",
+			"amr": "80",
+			"exp": "1500",
+			"prob": "3",
+            "mon": "25000"
+		},
+		{
+			"desc": "<p>Gargoyle<br><em>'A stone protector of its people of Hovengarhh.'</em><br>Difficulty: Advanced</p>",
+			"id": "6",
+			"hp": "2300",
+			"dmg": "580",
+			"amr": "40",
+			"exp": "800",
+			"prob": "3",
+            "mon": "27500"
+		},
+		{
+			"desc": "<p>Hellhound<br><em>'A hound straight from hell.'</em><br>Difficulty: Advanced</p>",
+			"id": "7",
+			"hp": "2500",
+			"dmg": "600",
+			"amr": "0",
+			"exp": "850",
+			"prob": "3",
+            "mon": "30000"
+		},
+		{
+			"desc": "<p>Giant<br><em>'A humoungous human with a giant wooden club in its hand. Still, primal.'</em><br>Difficulty: Advanced</p>",
+			"id": "8",
+			"hp": "2600",
+			"dmg": "650",
+			"amr": "10",
+			"exp": "900",
+			"prob": "3",
+            "mon": "32500"
+		},
+		{
+			"desc": "<p>Lesser Demon<br><em>'A malevolent watcher of the gates of hell.'</em><br>Difficulty: Advanced</p>",
+			"id": "9",
+			"hp": "2800",
+			"dmg": "700",
+			"amr": "20",
+			"exp": "1000",
+			"prob": "3",
+            "mon": "35000"
+		},
+		{
+			"desc": "<p>Basilisk<br><em>'A giant legendary reptile.'</em><br>Difficulty: Advanced</p>",
+			"id": "10",
+			"hp": "2900",
+			"dmg": "720",
+			"amr": "10",
+			"exp": "1100",
+			"prob": "3",
+            "mon": "37500"
+		},
+		{
+			"desc": "<p>Greater Demon<br><em>'A malevolent watcher of the throne chamber of hell.'</em><br>Difficulty: Dangerous</p>",
+			"id": "1",
+			"hp": "3500",
+			"dmg": "1000",
+			"amr": "100",
+			"exp": "2000",
+			"prob": "4",
+            "mon": "50000"
+		},
+		{
+			"desc": "<p>Araneae Regina<br><em>'A Queen Spider.'</em><br>Difficulty: Dangerous</p>",
+			"id": "2",
+			"hp": "3750",
+			"dmg": "1200",
+			"amr": "80",
+			"exp": "2500",
+			"prob": "4",
+            "mon": "55000"
+		},
+		{
+			"desc": "<p>Ember Golem<br><em>'A dangerous golum made of ember stones bursting with energy of fire.'</em><br>Difficulty: Dangerous</p>",
+			"id": "3",
+			"hp": "8000",
+			"dmg": "1500",
+			"amr": "150",
+			"exp": "8000",
+			"prob": "4",
+            "mon": "80000"
+		},
+		{
+			"desc": "<p>Ground Wyvern<br><em>'A beast that lives underground and attacks unaware preys.'</em><br>Difficulty: Dangerous</p>",
+			"id": "4",
+			"hp": "4000",
+			"dmg": "1600",
+			"amr": "120",
+			"exp": "3000",
+			"prob": "4",
+            "mon": "60000"
+		},
+		{
+			"desc": "<p>Kitarp<br><em>'A lazy goat always in its slumber until its awoken. Then, you better run...'</em><br>Difficulty: Dangerous</p>",
+			"id": "5",
+			"hp": "4250",
+			"dmg": "1800",
+			"amr": "120",
+			"exp": "3500",
+			"prob": "4",
+            "mon": "65000"
+		},
+		{
+			"desc": "<p>Chimera<br><em>'A fire breathing experiment of a mad scientist.'</em><br>Difficulty: Dangerous</p>",
+			"id": "6",
+			"hp": "4500",
+			"dmg": "2300",
+			"amr": "150",
+			"exp": "3750",
+			"prob": "4",
+            "mon": "70000"
+		},
+		{
+			"desc": "<p>Siren<br><em>'She sings a song of hope, only to lead men to death.'</em><br>Difficulty: Dangerous</p>",
+			"id": "7",
+			"hp": "5000",
+			"dmg": "2000",
+			"amr": "100",
+			"exp": "3900",
+			"prob": "4",
+            "mon": "75000"
+		},
+		{
+			"desc": "<p>Corrupt Knight<br><em>'A corrupt soul of knight who was betrayed and murdered in a battle.'</em><br>Difficulty: Dangerous</p>",
+			"id": "8",
+			"hp": "5500",
+			"dmg": "2200",
+			"amr": "200",
+			"exp": "4500",
+			"prob": "4",
+            "mon": "80000"
+		},
+		{
+			"desc": "<p>Adamant Testudo<br><em>'A giant tortoise with hardened shell.'</em><br>Difficulty: Dangerous</p>",
+			"id": "9",
+			"hp": "25000",
+			"dmg": "1000",
+			"amr": "800",
+			"exp": "7000",
+			"prob": "4",
+            "mon": "50000"
+		},
+		{
+			"desc": "<p>Harpies<br><em>'A female monster with giant vulturous wings.'</em><br>Difficulty: Dangerous</p>",
+			"id": "10",
+			"hp": "6000",
+			"dmg": "2500",
+			"amr": "100",
+			"exp": "2500",
+			"prob": "4",
+            "mon": "55000"
+		},
+		{
+			"desc": "<p>Ancient Dragon<br><em>'An ancient dragon that has been alive since the beginning of time and is though to have powers that can warp space and time.'</em><br>Difficulty: Legendary</p>",
+			"id": "1",
+			"hp": "100000",
+			"dmg": "50000",
+			"amr": "500",
+			"exp": "20000",
+			"prob": "5",
+            "mon": "500000"
+		},
+		{
+			"desc": "<p>King of Titans<br><em>'A titan that was born when the world was being moulded. Its size and strength is that belonging to the proportions of a mountain.'</em><br>Difficulty: Legendary</p>",
+			"id": "2",
+			"hp": "80000",
+			"dmg": "1200",
+			"amr": "2000",
+			"exp": "20000",
+			"prob": "5",
+            "mon": "500000"
+		},
+		{
+			"desc": "<p>Treasure Monster<br><em>'An animated monster chest that contains a fortune.'</em><br>Difficulty: Legendary</p>",
+			"id": "3",
+			"hp": "300000",
+			"dmg": "1000",
+			"amr": "200",
+			"exp": "1",
+			"prob": "5",
+            "mon": "1000000"
+		},
+		{
+			"desc": "<p>Manticore<br><em>'An elemental legendary beast that is a combination of the strengths of many beasts.'</em><br>Difficulty: Legendary</p>",
+			"id": "4",
+			"hp": "100000",
+			"dmg": "40000",
+			"amr": "1000",
+			"exp": "20000",
+			"prob": "5",
+            "mon": "400000"
+		},
+		{
+			"desc": "<p>Mad Scientist<br><em>'He believes in blank slates, unicorns, candies, and a world where monsters are the only creatures.'</em><br>Difficulty: Legendary</p>",
+			"id": "5",
+			"hp": "100",
+			"dmg": "100000",
+			"amr": "100",
+			"exp": "5000",
+			"prob": "5",
+            "mon": "54321"
+		},
+		{
+			"desc": "<p>GOD<br><em>'You have faith or you don't.'</em><br>Difficulty: Legendary</p>",
+			"id": "6",
+			"hp": "999999999",
+			"dmg": "1",
+			"amr": "9999",
+			"exp": "999999999",
+			"prob": "5",
+            "mon": "999999999"
+		},
+		{
+			"desc": "<p>DEVIL<br><em>'You fear or you don't.'</em><br>Difficulty: Legendary</p>",
+			"id": "7",
+			"hp": "666",
+			"dmg": "66666",
+			"amr": "666666666",
+			"exp": "666",
+			"prob": "5",
+            "mon": "666"
+		},
+		{
+			"desc": "<p>Little Doll<br><em>'Do you have the heart to kill it?'</em><br>Difficulty: Legendary</p>",
+			"id": "8",
+			"hp": "1000",
+			"dmg": "1000",
+			"amr": "1000",
+			"exp": "1000",
+			"prob": "5",
+            "mon": "1000"
+		},
+		{
+			"desc": "<p>Biz'kooth the One<br><em>'A monster with a <span style='color:red;'><b>single health</b></span>. YOLO!'</em><br>Difficulty: Impossible</p>",
+			"id": "9",
+			"hp": "1",
+			"dmg": "100",
+			"amr": "888888888",
+			"exp": "1",
+			"prob": "5",
+            "mon": "1000000"
+		},
+		{
+			"desc": "<p>EksDe'Ess the Last<br><em>'...'</em><br>Difficulty: Impossible</p>",
+			"id": "10",
+			"hp": "1000000000",
+			"dmg": "10000",
+			"amr": "1000",
+			"exp": "1",
+			"prob": "5",
+            "mon": "1"
+		}
+	]
+}

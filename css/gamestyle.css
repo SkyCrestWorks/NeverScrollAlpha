@@ -1,0 +1,231 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300italic,300,500,200,700,800,600,100&subset=latin,latin-ext);
+
+.container
+{
+	font-family: 'Cinzel', serif;
+	position:fixed !important;
+	position:absolute;
+	top:0;
+	right:0;
+	bottom:0;
+	left:0;
+	font-size: 1em;
+}
+
+.nav
+{
+	color: #fff;
+	background-color: #fff;
+	display: block;
+	text-align: center;
+	height: 2.5%;
+	width: 100%;
+	padding: 0.5em;
+	background-color: rgb(48,38,49);
+	background-image: url('images/dark.jpg');
+	background-size: 100%;
+	overflow: hidden;
+	transition: ease 3s;
+	margin-left: -0.5em;
+	overflow-y:scroll;
+}
+
+.navtext
+{
+	font-family: Raleway;
+	font-weight: 200;
+	padding: 1em;
+	margin-top: 1.5em;
+	background-color: rgba(0,0,0,0.6);
+	background-size: 100%;
+}
+
+.gamewindow
+{
+	height: 100%;
+	width: 100%;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.shopBar
+{
+	position: absolute;
+	top: 10%;
+	left: -87%;
+	height: 30em;
+	width: 90%;
+	background-image: url(images/market.jpg);
+	box-shadow: 0px 0px 3px #000;
+	z-index: 1000;
+	font-family: Raleway;
+	color: white;
+	text-align: center;
+	transition: ease 2s;
+}
+
+#buy1, #buy2, #buy3, #buy4, #buy5, #buy6, #buy7, #buy8, #buy9, #buyPot, #buyU1, #buyU2, #buyU3, #buyU4, #buyU5, #buyU6
+{
+	cursor: pointer;
+}
+
+.sideBar
+{
+	height: 100%;
+	width: 20%;
+	overflow: hidden;
+	float: left;
+	box-shadow: 0px 0px 3px #000;
+}
+
+.sideBarTop
+{
+	padding: 0.5em;
+	height: 70%;
+	width: 100%;
+	background-color: white;
+	background-size: 100% 54.5%;
+	background-repeat: no-repeat;
+	background-position: bottom;
+	margin-left: -0.5em;
+}
+
+.sideBarBot
+{
+	padding: 0.5em;
+	font-family: Raleway;
+	box-shadow: 0px 0px 10px #000 inset;
+	background-image: url('images/battle.jpg');
+	background-size: 100%;
+	width: 100%;
+	height: 100%;
+}
+
+.statMap
+{
+	color: white;
+	padding: 0.5em; 
+	background-color: rgba(0,0,0,0.7); 
+	width: 88%;
+	margin-top: 0.5em;
+	box-shadow: 0px 0px 3px #000;
+}
+
+.mainBox
+{
+	height: 100%;
+	width: 100%;
+}
+
+.mainBoxTop
+{
+	padding: 0.5em;
+	color: white;
+	background-image: url(images/scene/tavernnew.png);
+	height: 70%;
+	width: 100%;
+	background-size: 100%;
+	word-wrap: break-word;
+}
+
+#app
+{
+	font-family: Raleway;
+	font-weight: 700;
+	height: 88%;
+	padding:2em;
+	font-size: 1.1em;
+	font-weight: 200;
+	overflow-y:scroll;
+	background-color: rgba(0,0,0,0.7);
+}
+
+.mainBoxBot
+{
+	height: 100%;
+	width: 100%;
+	background-image: url(images/battle.jpg);
+}
+
+.skillSet
+{
+	height: 2.5em;
+}
+
+.statList
+{
+	margin-top: 86%;
+	color: black;
+	z-index: 100;
+}
+
+/*charClipList
+Regular: (6em,10em,25em,0em), margin-left: -12em, margin-top: -10em;
+Bronze: clip: rect(6em,22em,25em,12em); margin-left: -20em;margin-top: -10em;
+*/
+
+#char1
+{
+	z-index: 0;
+	position: absolute;
+	transform: scale(0.7);
+	margin-top: -12em;
+	margin-left: -12em;
+	clip: rect(6em,10em,27em,0em);
+}
+
+.tableContain
+{
+	margin-left: 42%;
+	padding-top:1%;
+	margin-bottom: 2%;
+}
+
+.optionBox
+{
+	margin: 0.5em;
+	padding: 0.5em;
+	display: block;
+	height: 5%;
+}
+
+.optionBoxStyle
+{
+	font-family: tahoma;
+	font-weight: 100;
+	font-size: 1.3em;
+	cursor: pointer;
+	cursor: url(Images/cursor.png) 20 20, auto;
+	box-shadow: 0px 0px 0.3em #000 inset;
+	background-color: white;
+}
+
+.optionBoxStyle2
+{
+	font-family: tahoma;
+	font-weight: 100;
+	font-size: 1em;
+	cursor: pointer;
+	cursor: url(Images/cursor.png) 20 20, auto;
+}
+#lvlprog {
+    background-image: url(images/progress.jpg); 
+    width: 1%;
+    transition: ease 5s;
+}
+
+.rotate
+{
+	-webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+
+.help
+{
+    -webkit-filter: invert(100%); /* Chrome, Safari, Opera */
+    filter: invert(100%);
+}

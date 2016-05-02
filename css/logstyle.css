@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Cinzel:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300italic,300,500,200,700,800,600,100&subset=latin,latin-ext);
+
+body
+{
+	font-family: Cinzel;
+	background-image: url(Images/pic01.jpg);
+	background-size: 100%;
+	overflow: auto;
+}
+
+.container
+{
+	text-align: center;
+	position: absolute;
+	top: 2.5%;
+	left: 2.5%;
+	right: 2.5%;
+	color: white;
+	display: block;
+	padding: 1em;
+	height: 90%;
+	width: 94%;
+}
+
+.contents
+{
+	font-family: Raleway;
+	text-align: center;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 4%;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.6);
+	height: 11em;
+	width: 30em;
+	box-shadow: 0px 0px 3px #000;
+}
+
+.contentsReg
+{
+	font-family: Raleway;
+	text-align: center;
+	position: absolute;
+	margin: auto;
+	top: 0;
+	right: 4%;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(0,0,0,0.6);
+	height: 11em;
+	width: 55em;
+	box-shadow: 0px 0px 3px #000;
+}
+
+.innertext
+{
+	position: relative;
+	margin: auto;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	margin: 1em;
+	padding: 1em;
+	height: 1.5em;
+	background-color: #ddd;
+	border-radius: 0.2em;
+	color: #000;
+}
+
+.innerbutton
+{
+	position: relative;
+	font-family: Raleway;
+	padding: 1em;
+}
+
+input[text]
+{
+	box-shadow: 0px 0px 10px #000 ineset;
+	background-color: rgba(0,0,0,0.8);
+	color: white;
+	padding: 0.1em;
+}
+
+.logo
+{
+	font-size: 20vh;
+	text-shadow: 0px 0px 2px #000;
+}
+
+a
+{
+	text-decoration: none;
+	color: #30c2f2;
+}

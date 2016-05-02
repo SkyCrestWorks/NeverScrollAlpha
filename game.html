@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>NeverScroll: The Game</title>
+	<link rel="stylesheet" type="text/css" href="css/gamestyle.css">
+	<link rel="stylesheet" type="text/css" media="screen and (min-device-width: 1365px) and (max-device-width: 1080" href="css/gamestyle2.css" />
+	<script type="text/javascript" src="js/jqueryAPI.js"></script>
+	<script type="text/javascript" src="js/gameset.js"></script>
+	<script type="text/javascript" src="js/game.js"></script>
+	<script type="text/javascript" src="js/shop.js"></script>
+    <script type="text/javascript" src="js/jquery.cookie.js"></script>
+</head>
+
+<body>
+<div class="container" onunload="close();">
+	<div id="test" class="nav" onmouseenter="expand()" onmouseleave="reduce()">
+	<b>Dragons & Dungeons</b>
+	<img class="help" height="22em" width="auto" align="right" src="css/images/help.png">
+	<div class="navtext">
+	<p>
+	<span style="font-size: 90px;">Game Basics</span><br>
+	<span style="font-size: 0.8em;">
+	<span style="color:#6aeb90">Scroll down to see full text if not visisble.</span><br><br>
+	<span style="color:#81bfd4">It's suggested that you play this game in full screen.<br>Press f11 (or) for Mac press Shift+&#8984;+F to enter full screen.</span><br><br>
+	</span>
+	<span style="font-size: 1.2em;">
+	This is game is quite easy to play and its interface very easy to understand but still...
+	<p>The left stats bar of the game shows your currently equiped armor, current level, current and max health, attack damage, and armor value.</p>
+	<p>Below the left bar you can see your experience to next level bar, username, total monsters killed count, and current money.</p>
+	<p>Next to the left stats bar you can find your game window. Here you can see the game story log and the combat log.</p>
+	<p>Below the game window you can see the options area where you will will find options that you can click for continuing the story or find options that will help you during combat sequences.</p>
+	<p>
+	Next to the options boxes there are two icon.<br>One that looks like a flask is the potions icon. You consume a potion upon clicking the potions icon. One important note: potions are used even when you are on full health. Use potions wisely, until you get rich.<br>
+	Below the potions icon is the save icon that helps you save the game.</p>
+	<p>--------------------------------------------------------------------------------------------</p>
+	<img height="30em" width="auto" src="css/images/potion.png"><em>Potions Icon</em>&nbsp;&nbsp;
+	<img height="30em" width="auto" src="css/images/savegame.png"><em>Save Game Icon</em>
+	</span>
+</div>
+<h1 style="text-align: center"> EssenceCraft</h1>
+<div style="font-family: 'Typewrite'; color: #888; margin-bottom: 0px;">
+A text-based role-playing game created by &copy EssenceCraft.
+</div>
+	</div> 
+	<div class="gamewindow">
+		<div onmouseenter="activateShop();" onmouseleave="deactivateShop();" id="shopBar2" class="shopBar">
+		<div style="float: left; width: 65%; height: 90%; border-right: 1px solid #555; position: relative; top: 0.5em; background-color: rgba(0,0,0,0.6);">
+		<table cellspacing="10em">
+			<tr>
+				<td style="color:#aaa;">Armor Name:</td><td>Jungle</td><td>Copper</td><td>Iron</td><td>Nerco</td><td>Silver</td><td>Meteor</td><td>Gold</td><td>Molten</td><td>Shadow</td>
+			</tr>
+			<tr>
+				<td style="color:#aaa;">Damage Block:</td><td>10</td><td>20</td><td>30</td><td>40</td><td>50</td><td>60</td><td>70</td><td>80</td><td>90</td>
+			</tr>
+			<tr>
+				<td style="color:#aaa;">Price:</td><td>5,000</td><td>20,000</td><td>50,000</td><td>75,000</td><td>100,000</td><td>150,000</td><td>200,000</td><td>300,000</td><td>400,000</td>
+			</tr>
+			<tr style="color: green;">
+				<td style="color:#aaa;">Actions:</td><td id="buy1">BUY</td><td id="buy2">BUY</td><td id="buy3">BUY</td><td id="buy4">BUY</td><td id="buy5">BUY</td><td id="buy6">BUY</td><td id="buy7">BUY</td><td id="buy8">BUY</td><td id="buy9">BUY</td>
+			</tr>
+		</table>
+		<table style="margin-top:2em;" cellspacing="10em">
+			<tr>
+				<td style="color:#aaa;">Item Name:</td><td>Soul's Heart</td><td>Ember Stone</td><td>Defender</td><td>Shade's Heart</td><td>Ashen Stone</td><td>Smeared Walls</td>
+			</tr>
+			<tr>
+				<td style="color:#aaa;">Effect:</td><td>+10% Health</td><td>+10% Damage</td><td>+5% Health<br>+5% Damage</td><td>+20% Damage<br>-20% Health</td><td>+20% Health<br>-10% Damage</td><td>Change Theme<br>of Game</td>
+			</tr>
+			<tr>
+				<td style="color:#aaa;">Quantity:</td><td><span id="1">5/5</span></td><td id="2">5/5</td><td id="3">5/5</td><td id="4">3/3</td><td id="5">3/3</td><td>Inf.</td>
+			</tr>
+			<tr>
+				<td style="color:#aaa;">Price:</td><td>50,000</td><td>50,000</td><td>60,000</td><td>100,000</td><td>100,000</td><td>10,000</td>
+			</tr>
+			<tr style="color: green;">
+				<td style="color:#aaa;">Actions:</td><td id="buyU1">BUY</td><td id="buyU2">BUY</td><td id="buyU3">BUY</td><td id="buyU4">BUY</td><td id="buyU5">BUY</td><td id="buyU6">BUY</td>
+			</tr>
+		</table>
+		</div>
+		<div style="float: left; width: 20%; height: 90%; position: relative; top: 0.5em;">
+		<table cellspacing="10em">
+			<tr>
+				<td style="color: #aaa;">Item:</td><td>Potion</td>
+			</tr>
+			<tr>
+				<td style="color: #aaa;">Effect:</td><td>Heal</td>
+			</tr>
+			<tr>
+				<td style="color: #aaa;">Price:</td><td>500</td>
+			</tr>
+			<tr style="color: green;">
+				<td style="color:#aaa;">Actions:</td><td id="buyPot">BUY</td>
+			</tr>
+		</table>
+		</div>
+		<div id="shopText" class="rotate" style="float: right; width: 10%; height: 15%; position: relative; top: 45%; right: -4em;">
+		Open Shop
+		</div>
+		</div>
+		<div class="sideBar">
+			<div style="text-align: center;" class="sideBarTop">
+			<img id="char1" src="css/images/char/chars.jpg">
+			<div class="statList">
+			<b>
+			<img class="skillSet" src="css/images/skill/lvl.png"><span id="lvl">LEVEL: 1</span><br><br>
+			<img class="skillSet" src="css/images/skill/hp.png"><span id="hp">Health: 500/500</span><br><br>
+			<img class="skillSet" src="css/images/skill/atk.png"><span id="atk">Attack: 30</span><br><br>
+			<span id="arm"><img class="skillSet" src="css/images/skill/arm.png"><span id="arm2">Armor: 5</span></span><br>
+			<span style="display: none;" id="armid">ARM1</span>
+			<span style="display: none;" id="util1">0</span>
+			<span style="display: none;" id="util2">0</span>
+			<span style="display: none;" id="util3">0</span>
+			<span style="display: none;" id="util4">0</span>
+			<span style="display: none;" id="util5">0</span>
+			<span style="display: none;" id="util5">0</span>
+			<span style="display: none;" id="util6">0</span>
+			<span style="display: none;" id="util7">0</span>
+                </b>
+			</div>
+			</div>
+			<div class="sideBarBot" id="stats">
+			<div>
+				<div style="background-color: #222; width: 93%; box-shadow: 0px 0px 3px #000; color: white;">
+				<div style="float: left; padding-left: 0.5em;">
+				[<span id="lvlcount">1</span>/40]
+				</div>
+				<div id="lvlprog">
+				<br>
+				</div>
+				</div>	
+			</div>
+			<div class="statMap">
+				Username: <span id="uid"></span>
+				<hr>
+				Total Monsters Killed: <span id="monstercount">0</span>
+				<hr>
+				Ancient Money: <span id="moneycount">1000</span>
+			</div>
+			</div>
+		</div>
+		<div class="mainBox">
+			<div class="mainBoxTop" id="wall">
+			<div id="app">
+			Welcome to the adventure.<br>
+			--------------------------------------------------------------------------------------------------------<br>
+            <p>Once a renowned adventurer and a problem solver for the kingdom of <b>Asthalin</b>, now you try to run from the shadows of the past. You run into the <b>Silverline Forest</b> trying to escape the people who don't trust you and are out hunting for your blood. You stop your sprint as you see a dark shadow lurking between trees.</p>
+			</div>
+			</div>
+			<div class="mainBoxBot">
+                
+			<table style="width: 72%;border:none; float: left;" cellspacing="10">
+			<tr class="opt">
+			<td class="optionBoxStyle"><div class="optionBox" id="opt1">Continue the adventure...</div></td>
+			<td class="optionBoxStyle" class="x"><div class="optionBox" id="opt2"></div></td>
+			</tr>
+			<tr class="opt" id="xx">
+			<td class="optionBoxStyle"><div class="optionBox" id="opt3"></div></td>
+			<td class="optionBoxStyle"><div class="optionBox" id="opt4"></div></td>
+			</tr>
+            <tr class="bat">
+            <td class="optionBoxStyle"><div class="optionBox" id="opt5">Attack</div></td>
+            <td class="optionBoxStyle"><div class="optionBox" id="opt6">Potion</div></td>
+            </tr>
+                <tr class="bat"><td class="optionBoxStyle"><div class="optionBox" id="opt8">Flee</div></td></tr>
+                <tr id="load">
+                <td class="optionBoxStyle"><div class="optionBox" id="opt7">Go Back To Login Screen</div></td></tr>
+			</table>
+			<table style="width: 8%;border:none;" cellspacing="10">
+			<tr class="opt">
+			<td class="optionBoxStyle2"><img style="padding-top: 0.5em;" id="potDrink" height="50em" alt="Drink Potion" src="css/images/potion.png"></td>
+			</tr>
+			<tr class="opt">
+			<td class="optionBoxStyle2"><img style="padding-top: 1em;" id="gameSave" height="50em" alt="Save Game" src="css/images/savegame.png"></td>
+			</table>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,3029 @@
+{
+"Story": [
+	{
+		"text": "<p>--------------------------------------------------------------------------------------------------------<br>A WEEK LATER<br>--------------------------------------------------------------------------------------------------------<br><br>It's mid day and you find yourself enjoying a fine meal of stew and bread at the <b>Bear's Claw</b>.<br>Combined with some Dwarven Ale it's perhaps the best meal you've had all week.</p>",
+		"id": "1",
+		"opt1": "Get more ale.",
+		"opt2": "Get more stew.",
+		"opt3": "Talk to the bartender.",
+		"opt4": "Observe surroundings.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>The bartender serves you a pint of the finest <span style='color:red;'>Dwarven Ale</span> you've ever had.</p>",
+		"id": "11",
+		"opt1": "Talk to the bartender.",
+		"opt2": "Observe surroundings.",
+		"opt3": "Stare at the bartender.",
+		"opt4": "Check out the tavern wench.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>The tavern wench brings you another bowl of the finest stew you've ever eaten.</p>",
+		"id": "12",
+		"opt1": "Talk to the tavern wench.",
+		"opt2": "Observe surroundings.",
+		"opt3": "Stare at the bartender.",
+		"opt4": "Check out the tavern wench.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>The bartender says'There is a wedding that's about to take place a week from now.The wedding is between the Magistrate's daughter, <b>Evelyn</b> and the Baron Kaleik's third son, <b>Alex</b>'.</p>",
+		"id": "13",
+		"opt1": "Inquire about the wedding.",
+		"opt2": "Observe surroundings.",
+		"opt3": "Stare at the bartender.",
+		"opt4": "Check out the tavern wench.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You observe a lot but what grabs your attention is a shifty looking guy who is constantly staring at you with a frown on his face.</p>",
+		"id": "14",
+		"opt1": "Talk to the bartender.",
+		"opt2": "Observe surroundings.",
+		"opt3": "Stare at the bartender.",
+		"opt4": "Check out the tavern wench",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You were about to ask the bartender about the current ongoings in the village, but you hear someone screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "111",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>Your eyes are scaning the room, looking around for something important when suddenly you notice a guy screaming at you and running towards you for a punch </p>",
+		"id": "112",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You are staring at the bartender, noticing his scarred face.As you were about to ask the bartender about where did he get the scars from you hear a guy screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "113",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You cant keep your eyes off the curvaceous body of the wench. You think to youself about how could one have such a perfect body. You are debating on whether to ask her out or not when suddenly you hear a guy screaming at you. You look over your shoulder to see just in time that the guy is trying to land a punch on you. </p>",
+		"id": "114",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You cant keep your eyes off the curvaceous body of the wench. You are about to ask her out when suddenly before you can say anything you hear a guy screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "121",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>Your eyes are scaning the room, looking around for something important when suddenly you notice a guy screaming at you and running towards you for a punch </p>",
+		"id": "122",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You are staring at the bartender, noticing his scarred face.As you were about to ask the bartender about where did he get the scars from you hear a guy screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "123",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You cant keep your eyes off the curvaceous body of the wench. You think to youself about how could one have such a perfect body. You are debating on whether to ask her out or not when suddenly you hear a guy screaming at you. You look over your shoulder to see just in time that the guy is trying to land a punch on you. </p>",
+		"id": "124",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You are about to ask the bartender about the details of the wedding, when suddenly you hear a guy screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "131",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>Your eyes are scaning the room, looking around for something important when suddenly you hear a guy screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "132",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You are staring at the bartender, noticing his scarred face.As you were about to ask the bartender about where did he get the scars from you hear a guy screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "133",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You cant keep your eyes off the curvaceous body of the wench. You think to youself about how could one have such a perfect body. You are debating on whether to ask her out or not when suddenly you hear a guy screaming at you. You look over your shoulder to see just in time that the guy is trying to land a punch on you. </p>",
+		"id": "134",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You were about to ask the bartender about the current ongoings in the village, but you hear someone screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "141",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>Your eyes are scaning the room, looking around for something important when suddenly you notice a guy screaming at you and running towards you for a punch </p>",
+		"id": "142",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You are staring at the bartender, noticing his scarred face.As you were about to ask the bartender about where did he get the scars from you hear a guy screaming at you and notice just in time that the guy is trying to land a blow on you </p>",
+		"id": "143",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text": "<p>You cant keep your eyes off the curvaceous body of the wench. You think to youself about how could one have such a perfect body. You are debating on whether to ask her out or not when suddenly you hear a guy screaming at you. You look over your shoulder to see just in time that the guy is trying to land a punch on you. </p>",
+		"id": "144",
+		"opt1": "Try and dodge the punch.",
+		"opt2": "Try to punch him before he hits you.",
+		"opt3": "Block the attack.",
+		"opt4": "Try to hold his hands and stop him.",
+		"type": "nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1111",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab the bottle of ale and smash it on his head to knoch him out and continue doing what you were doing before",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1112",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab the bottle of ale and smash it on his head to knoch him out and continue doing what you were doing before",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1113",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1114",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1121",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1122",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1123",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1124",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1131",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1132",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1133",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1134",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1141",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"`1142",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1143",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1144",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1211",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end": "yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1212",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1213",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1214",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1221",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1222",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1223",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1224",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1231",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1232",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1233",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1234",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1241",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1242",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1243",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1244",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1311",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1312",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1313",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1314",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1321",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1322",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1323",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1324",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1331",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1332",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1333",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1334",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1341",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1342",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1343",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1344",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1411",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1412",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1413",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1414",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1421",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1422",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1423",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1424",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1431",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1432",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1433",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1434",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully dodged the punch.</p>",
+		"id":"1441",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You successfully land a punch and the drunkard falls down...</p>",
+		"id":"1442",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You succesfully blocked his puch staggering him</p>",
+		"id":"1443",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab bottle, smash it on his head",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You sucessfully stop the punch</p>",
+		"id":"1444",
+		"opt1":"Run out, report to guards",
+		"opt2":"Punch him and keep punching him ",
+		"opt3":"Kick and tell him to stay down",
+		"opt4":"Grab the bottle of ale and smash it on his head to knoch him out cold and continue doing what you were doing before ",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You run to the guards outside the pub and explain the situation to them as to how you were just minding your own business when suddenly out of nowhere that guy came and tried to punch you.<br>The guards then subjugate the assailant and say 'You did good coming to us instead of fighting him. The Magistrate is looking for people like you'</p>",
+		"id":"21",
+		"opt1":"Inquire about the Magistrate",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire as to what will happen to the assailant",
+		"opt4":"Inquire about the assailant",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You punch him and keep punching him till you suddenly hear a voice '<em>STOP</em>'. You turn around to see the guards and then stop punching the guy and move away from him. The guards say 'What you did is wrong. You should have come to us. You will be punished'.</p>",
+		"id":"22",
+		"opt1":"Explain the situation to them and tell them it not your fault",
+		"opt2":"Accept the fact that maybe you got a little carried over",
+		"opt3":"Get angry and tell them it was not your fault but it was of that guy as he started the fight",
+		"opt4":"Tell the guard that you want to meet the head and explain the situation to them",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You kick him and say, 'Stay down otherwise the consequences will be dire.' The drunkard mutters something but stays down. You turn around to see the guards looking at you. You feel terrified: the guards say 'You did a good job in stopping the commotion and not letting it go out of hand. The Magistrate is looking for people like you.'</p>",
+		"id":"23",
+		"opt1":"Inquire about the Magistrate",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire as to what will happen to the assailant",
+		"opt4":"Inquire about the assailant",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You smash the bottle of ale on his head,knocking him out cold. You tell the wench as to what a waste of good ale this was. You then hear the guards comming in and asking what happened and who knocked out that man. After they find out it was you, they come to you and say 'You did a good job to knocking him out. He was causing an unnecessary commotion. Magistrate is looking for people like you'</p> ",
+		"id":"24",
+		"opt1":"Inquire about the Magistrate",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire as to what will happen to the assailant",
+		"opt4":"Inquire about the assailant",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The guards tell you that this Magistrate was appointed just 3 years ago. His wife died many years ago and now he lives with his daughter.</p>",
+		"id":"211",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the assailant" ,
+		"opt4":"Go to Magistrate's house.",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guard tells you that the Magistrate has a very important job for someone like you. He is looking for brave people who are not afraid to do what is needed to be done.</p>",
+		"id":"212",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire about what do they mean by people like you",
+		"opt3":"Inquire about the assailant",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guards tells you that the assailant will be thrown into a cell as this was not the first time he has made a ruckus</p>",
+		"id":"213",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the Magistrate",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guard tell you that was Viktor Riddle, a long time problem maker of the town. Involved in all the wrong activities of the town like smuggling, drug trafficking, forgery, etc.</p>",
+		"id":"214",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the Magistrate",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guards understand your condition but tell you that you wold still need to visit the Magistrate.</p>",
+		"id":"221",
+		"opt1":"Inquire about the Magistrate",
+		"opt2":"Inquire about the assailant",
+		"opt3":"Insist on the fact that it was not your fault and hence you should not be punished",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guards are sympathetic towards you and understand your problem, but since it is not in their hands they can not do anything. They ask you to meet the Magistrate and tell you that they will support you and tell the Magistrate it is not your fault</p>",
+		"id":"222",
+		"opt1":"Inquire about the Magistrate",
+		"opt2":"Inquire about the assailant",
+		"opt3":"Ask what the punishment might be",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>They tell you that they saw you punching the guy and hence they can not help you.</p>",
+		"id":"223",
+		"opt1":"Inquire about the Magistrate",
+		"opt2":"Inquire about the assailant",
+		"opt3":"Insist on the fact that it was not your fault and hence you should not be punished",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guards tell you that you were anyway going to meet the Magistrate.</p>",
+		"id":"224",
+		"opt1":"Inquire about Magistrate",
+		"opt2":"Inquire about the assailant",
+		"opt3":"Inquire about what the punishment might be",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+
+		"text":"<p>The guards tell you that this Magistrate was appointed just 3 years ago. His wife died many years ago and now he lives with his daughter.</p>",
+		"id":"231",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the assailant" ,
+		"opt4":"Go to Magistrate's house.",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guard tells you that the Magistrate has a very important job for someone like you. He is looking for brave people who are not afraid to do what is needed to be done.</p>",
+		"id":"232",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire about what do they mean by people like you",
+		"opt3":"Inquire about the assailant",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guards tells you that the assailant will be thrown into a cell as this was not the first time he has made a ruckus</p>",
+		"id":"233",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the Magistrate",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guard tell you that was Viktor Riddle, a long time problem maker of the town. Involved in all the wrong activities of the town like smuggling, drug trafficking, forgery, etc.</p>",
+		"id":"234",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the Magistrate",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guards tell you that this Magistrate was appointed just 3 years ago. His wife died many years ago and now he lives with his daughter.</p>",
+		"id":"241",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the assailant" ,
+		"opt4":"Go to Magistrate's house.",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guard tells you that the Magistrate has a very important job for someone like you. He is looking for brave people who are not afraid to do what is needed to be done.</p>",
+		"id":"242",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire about what do they mean by people like you",
+		"opt3":"Inquire about the assailant",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guards tells you that the assailant will be thrown into a cell as this was not the first time he has made a ruckus</p>",
+		"id":"243",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the Magistrate",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guard tell you that was Viktor Riddle, a long time problem maker of the town. Involved in all the wrong activities of the town like smuggling, drug trafficking, forgery, etc.</p>",
+		"id":"244",
+		"opt1":"Inquire about the job.",
+		"opt2":"Inquire why the Magistrate is looking for people like you",
+		"opt3":"Inquire about the Magistrate",
+		"opt4":"Go to Magistrate's house",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The guards tell you that futher talking needs to be done with the Magistrate, as they do not have authority to give away more information. You find your time being wasted and hence, you proceed to go to the Magistrate's palace.<br>After completing some formalities and courtesies you finally arrive outside the Magistrate's chamber. You see a huge scroll on a nearby wall and a tall maplewood door in the front...</p>",
+		"id":"31",
+		"opt1":"Enter Chamber: Inquire, job",
+		"opt2":"Read Magistrate's History",
+		"opt3":"Enter Chamber: Inquire, wedding",
+		"opt4":"Enter Chamber: Greet, Magistrate",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The guards tell you that futher talking needs to be done with the Magistrate, as they do not have authority to give away more information. You find your time being wasted and hence, you proceed to go to the Magistrate's palace.<br>After completing some formalities and courtesies you finally arrive outside the Magistrate's chamber. You see a huge scroll on a nearby wall and a tall maplewood door in the front...</p>",
+		"id":"32",
+		"opt1":"Enter Chamber: Inquire, job",
+		"opt2":"Read Magistrate's History",
+		"opt3":"Enter Chamber: Inquire, wedding",
+		"opt4":"Enter Chamber: Greet, Magistrate",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The guards tell you that futher talking needs to be done with the Magistrate, as they do not have authority to give away more information. You find your time being wasted and hence, you proceed to go to the Magistrate's palace.<br>After completing some formalities and courtesies you finally arrive outside the Magistrate's chamber. You see a huge scroll on a nearby wall and a tall maplewood door in the front...</p>",
+		"id":"33",
+		"opt1":"Enter Chamber: Inquire, job",
+		"opt2":"Read Magistrate's History",
+		"opt3":"Enter Chamber: Inquire, wedding",
+		"opt4":"Enter Chamber: Greet, Magistrate",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You find your time being wasted and hence, you proceed to go to the Magistrate's palace.<br>After completing some formalities and courtesies you finally arrive outside the Magistrate's chamber. You see a huge scroll on a nearby wall and a tall maplewood door in the front...</p>",
+		"id":"34",
+		"opt1":"Enter Chamber: Inquire, job",
+		"opt2":"Read Magistrate's History",
+		"opt3":"Enter Chamber: Inquire, wedding",
+		"opt4":"Enter Chamber: Greet, Magistrate",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"311",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p><b>Magistrate Victor D’blasin</b> is a large man. In his late forties he carries his girth well. Richly appointed in the clothing that earned him his fortune, he is a shrewd judge of character. His youth was spent adventuring where he was part of the <em>Company of the Silver Discs</em>. Victor earned a reputation as being good with a sword, but something beyond the dangerous life of adventure called to him. Settling down in Caindel he married the daughter of the local weaver. Putting his wealth from adventuring to good use he quickly expanded his wife’s family business. His acumen for financial affairs quickly expanded the family fortunes. Victor’s wife died many years ago leaving him to raise their daughter <b>Evelyn</b>. Three years ago <b>Baron Kaliek</b> appointed him as <em>Magistrate of Caindel</em>.</p>",
+		"id":"312",
+		"opt1":"Enter Chamber: Inquire, job",
+		"opt2":"Enter Chmaber: Inquire, wedding",
+		"opt3":"Enter Chamber: Greet, Magistrate",
+		"opt4":"Enter Chamber: Observe",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"313",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"314",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"321",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p><b>Magistrate Victor D’blasin</b> is a large man. In his late forties he carries his girth well. Richly appointed in the clothing that earned him his fortune, he is a shrewd judge of character. His youth was spent adventuring where he was part of the <em>Company of the Silver Discs</em>. Victor earned a reputation as being good with a sword, but something beyond the dangerous life of adventure called to him. Settling down in Caindel he married the daughter of the local weaver. Putting his wealth from adventuring to good use he quickly expanded his wife’s family business. His acumen for financial affairs quickly expanded the family fortunes. Victor’s wife died many years ago leaving him to raise their daughter <b>Evelyn</b>. Three years ago <b>Baron Kaliek</b> appointed him as <em>Magistrate of Caindel</em>.</p>",
+		"id":"322",
+		"opt1":"Enter Chamber: Inquire, job",
+		"opt2":"Enter Chmaber: Inquire, wedding",
+		"opt3":"Enter Chamber: Greet, Magistrate",
+		"opt4":"Enter Chamber: Observe",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"323",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"324",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"331",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p><b>Magistrate Victor D’blasin</b> is a large man. In his late forties he carries his girth well. Richly appointed in the clothing that earned him his fortune, he is a shrewd judge of character. His youth was spent adventuring where he was part of the <em>Company of the Silver Discs</em>. Victor earned a reputation as being good with a sword, but something beyond the dangerous life of adventure called to him. Settling down in Caindel he married the daughter of the local weaver. Putting his wealth from adventuring to good use he quickly expanded his wife’s family business. His acumen for financial affairs quickly expanded the family fortunes. Victor’s wife died many years ago leaving him to raise their daughter <b>Evelyn</b>. Three years ago <b>Baron Kaliek</b> appointed him as <em>Magistrate of Caindel</em>.</p>",
+		"id":"332",
+		"opt1":"Enter Chamber: Inquire, job",
+		"opt2":"Enter Chmaber: Inquire, wedding",
+		"opt3":"Enter Chamber: Greet, Magistrate",
+		"opt4":"Enter Chamber: Observe",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"333",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"334",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"341",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p><b>Magistrate Victor D’blasin</b> is a large man. In his late forties he carries his girth well. Richly appointed in the clothing that earned him his fortune, he is a shrewd judge of character. His youth was spent adventuring where he was part of the <em>Company of the Silver Discs</em>. Victor earned a reputation as being good with a sword, but something beyond the dangerous life of adventure called to him. Settling down in Caindel he married the daughter of the local weaver. Putting his wealth from adventuring to good use he quickly expanded his wife’s family business. His acumen for financial affairs quickly expanded the family fortunes. Victor’s wife died many years ago leaving him to raise their daughter <b>Evelyn</b>. Three years ago <b>Baron Kaliek</b> appointed him as <em>Magistrate of Caindel</em>.</p>",
+		"id":"342",
+		"opt1":"Enter Chamber: Inquire, job",
+		"opt2":"Enter Chmaber: Inquire, wedding",
+		"opt3":"Enter Chamber: Greet, Magistrate",
+		"opt4":"Enter Chamber: Observe",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"343",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"344",
+		"opt1":"Ask about the reward",
+		"opt2":"Get further details",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3111",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3112",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3113",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3114",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3121",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3122",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"3123",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You notice the wrinkled and troubled look on the Magistrate's face. The Magistrate catches your eyes and says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"3124",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3131",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3132",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3133",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3134",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3141",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3142",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3143",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3144",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3211",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3212",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3213",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3214",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3221",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3222",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"3223",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You notice the wrinkled and troubled look on the Magistrate's face. The Magistrate catches your eyes and says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"3224",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3231",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3232",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3233",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3234",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3241",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3242",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3243",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3244",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3311",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3312",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3313",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3314",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3321",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3322",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"3323",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You notice the wrinkled and troubled look on the Magistrate's face. The Magistrate catches your eyes and says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"3324",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3331",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3332",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3333",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3334",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3341",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3342",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3343",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3344",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3411",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3412",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3413",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3414",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3421",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3422",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"3423",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You notice the wrinkled and troubled look on the Magistrate's face. The Magistrate catches your eyes and says, 'I am in a bit of a conundrum. My daughter's wedding is within a week but it seems like she's run away with the man she's supposed to marry. I am not certain but it would be helpful if you would look into it. There's also a handsome reward in it for you.'</p>",
+		"id":"3424",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3431",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3432",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3433",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3434",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Of course I will pay you for your services. A reward of <b>2000 gold</b> will be awarded to you for the successful return of the two children.'</p>",
+		"id":"3441",
+		"opt1":"Say, 'Reward is low'",
+		"opt2":"Request for more money",
+		"opt3":"Accept the job",
+		"opt4":"Decline the job",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The Magistrate says, 'They ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3442",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3443",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"3444",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"31111",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"31112",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"31113",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"31114",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"31311",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"31312",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"31313",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"31314",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"31411",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"31412",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"31413",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"31414",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"32111",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"32112",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"32113",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"32114",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"32311",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"32312",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"32313",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"32314",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"32411",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"32412",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"32413",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"32414",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"33111",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"33112",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"33113",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"33114",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"33311",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"33312",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"33313",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"33314",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"33411",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"33412",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"33413",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"33414",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"34111",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"34112",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"34113",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"34114",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"34311",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"34312",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"34313",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"34314",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate becomes agitated and says, 'You should be grateful that you are getting even this much.'</p>",
+		"id":"34411",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>After some bargaining the Magistrate understands and says, 'You have a point. Ok i will raise the reward to <b>4000</b>'</p>",
+		"id":"34412",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes",
+		"money":"4000"
+	},
+	{
+		"text":"<p>The Magistrate says, 'Excellent. Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.</p>",
+		"id":"34413",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>The Magistrate says, 'That is sad but I don't think you have an option, son.'<br>The Magistrate frowns, 'Now, I can tell you that they ran away into the <b>Bright Woods</b> three days ago. I had already sent my scouts after them but they came back with no news. I hope you can be of help. Now, I'm busy and can't talk now. Farewell.'</p>",
+		"id":"34414",
+		"opt1":"Observe surroundings",
+		"opt2":"Find Scouts, Talk",
+		"opt3":"Talk to guards",
+		"opt4":"Take leave",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You notice one of the Paiges in the palace was taking an unusual interest in your conversation with the Magistrate. When you approach the young man he quickly excuses himself from the room.</p>",
+		"id":"41",
+		"opt1":"Go to the Bright Woods",
+		"opt2":"Find Scouts, Talk. Then go to Bright Woods",
+		"opt3":"Talk to guards. Then go to Bright Woods",
+		"opt4":"Try to find the Paige. Then go to Bright Woods",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You find the scout and ask them to tell you about everything they know about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.'</p>",
+		"id":"42",
+		"opt1":"Go to the Bright Woods",
+		"opt2":"Observe surroundings. Then go to Bright Woods",
+		"opt3":"Talk to guards. Then go to Bright Woods",
+		"opt4":"Try to gain information about Bright woods. Then go to Bright Woods",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You talk to the guards and ask them to tell you about everything they know about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.</p>",
+		"id":"43",
+		"opt1":"Go to Bright Woods",
+		"opt2":"Observe surroundings. Then go to Bright Woods",
+		"opt3":"Find Scouts, Talk. Then go to Bright Woods",
+		"opt4":"Try to gain information about Bright woods. Then go to Bright Woods",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You leave the palace</p>",
+		"id":"44",
+		"opt1":"Go to Bright Woods",
+		"opt2":"Observe surroundings. Then go to Bright Woods",
+		"opt3":"Find Scouts, Talk. Then go to Bright Woods",
+		"opt4":"Talk to guards. Then go to Bright Woods",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"411",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You find the scout and ask them to tell you about everything they know about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.'<br> You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"412",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You talk to the guards and ask them to tell you about everything they know about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.<br>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"413",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You look around looking for the Paige but you can't seem to find him. Thus, you continue to the Bright Woods<br>You enter the woods. As you move deeper the woods become denser, little to no light filtering through the canopy. You sense a chill tavelling up spine.</p>",
+		"id":"414",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"421",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You notice one of the Paiges in the palace was taking an unusual interest in your conversation with the Magistrate. When you approach the young man he quickly excuses himself from the room. Since there is nothing you can do you proceed to the woods<br>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"422",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You talk to the guards and ask them to tell you about everything they know about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.<br>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"423",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>As you were walking down the street you overhear a few men talking about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.<br>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"424",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"431",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You notice one of the Paiges in the palace was taking an unusual interest in your conversation with the Magistrate. When you approach the young man he quickly excuses himself from the room. Since there is nothing you can do you proceed to the woods<br>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"432",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You find the scout and ask them to tell you about everything they know about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.'<br> You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"433",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>As you were walking down the street you overhear a few men talking about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.<br>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"434",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"441",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You realize that one of the Paiges in the palace was taking an unusual interest in your conversation with the Magistrate. When you approach the young man outside he quickly excuses himself from the area. Since there is nothing you can do you proceed to the woods<br>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"442",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You find the scout and ask them to tell you about everything they know about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.'<br> You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"443",
+		"opt1":"Travel to the town",
+		"opt2":"Continue your journey",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You talk to the guards and ask them to tell you about everything they know about the Bright Woods. They say 'It is a forest which is host to many beings like bandits, dwarfs, dogs, rats and many more. There are also quite a few villages, campsites and small settlements.<br>You enter the woods and as you move deeper the woods become denser, little to no light filtering through canopy. You sense a chill tavelling up spine.</p>",
+		"id":"444",
+		"opt1":"Travel to the town",
+		"opt2":"Continue deeper into the forest",
+		"opt3":"Look around",
+		"opt4":"Drink from nearby river",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You enter the town known as <b>Riverstead</b>. You look around and see that this town is highly gaurded but still not many people live here. The only prominent buildings are a shop, an inn having a bar, and a few houses.</p>",
+		"id":"51",
+		"opt1":"Go to Inn",
+		"opt2":"Look for information on Evelyn",
+		"opt3":"Look around",
+		"opt4":"Continue on your journey",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>The forest gets darker and the number of creatures lurking increases...</p>",
+		"id": "52",
+		"opt1":"Travel to the town",
+		"opt2":"Look for clues in the woods",
+		"opt3":"Look around",
+		"opt4":"Continue deeper into the forest",
+		"type":"w",
+		"end":"no"
+	},
+	{
+		"text":"<p>You hear a river gushing nearby, but you can see nothing much as it is nearly night time and the cnopy is blocking most of the sunlight.</p>",
+		"id":"53",
+		"opt1":"Travel to town",
+		"opt2":"Look for clues in the woods",
+		"opt3":"Look around",
+		"opt4":"Continue deeper into the forest",
+		"type":"w",
+		"end":"no"
+	},
+	{
+		"text":"<p>You move towards the river and drink the cool refreshing water from the river. It quenches your thirst. It rejuvenate you.</p>",
+		"id":"54",
+		"opt1":"Travel to town",
+		"opt2":"Look for clues in the woods",
+		"opt3":"Look around",
+		"opt4":"Continue deeper into the forest",
+		"type":"w",
+		"end":"no"
+	},
+	{
+		"text":"<p>You go to the Inn <b>Goat Cheese</b>. You meet the owner, he says' The Goat Cheese is full and the bar is currently closed. I am sorry i can not be of any use to you'.</p>",
+		"id":"511",
+		"opt1":"Cotinue your journey in the woods",
+		"opt2":"Ask for any clues. Continue journey",
+		"opt3":"Look for information.Continue journey",
+		"opt4":"Wait for the bar to open.",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You try to find for any information on Evelyn that you can. After a lot of asking around you find nothing useful.</p>",
+		"id":"512",
+		"opt1":"Cotinue your journey in the woods",
+		"opt2":"Go to inn",
+		"opt3":"Go to bar",
+		"opt4":"Talk to townsfolks",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"<p>You see a lot of gaurds patroling the city. Quite a few people are staring at you as you pass by. You find nothing out of ordinary.</p>",
+		"id":"513",
+		"opt1":"Continue your journey in the woods",
+		"opt2":"Go to inn",
+		"opt3":"Go to bar",
+		"opt4":"Talk to townsfolks",
+		"type":"nw",
+		"end":"no"
+	},
+	{
+		"text":"You re-enter the woods, still looking for clues about the were abouts of Evelyn ",
+		"id":"514",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You enter the town known as <b>Riverstead</b>. You look around and see that this town is highly gaurded but still not many people live here. The only prominent buildings are a shop, an inn having a bar, and a few houses.But since there is not much to do here you restock and continue on your journey and enter the woods again</p>",
+		"id":"521",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You look for clues. After some searchin you cannot find anything usefull. You decide to continue your journey through the forest </p>",
+		"id":"522",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You hear a river gushing nearby, but you can see nothing much as it is nearly night time and the cnopy is blocking most of the sunlight.</p>",
+		"id":"523",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You continue trudging through the woods looking for any clues about Evelyn</p>",
+		"id":"524",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You enter the town known as <b>Riverstead</b>. You look around and see that this town is highly gaurded but still not many people live here. The only prominent buildings are a shop, an inn having a bar, and a few houses.But since there is not much to do here you restock and continue on your journey and enter the woods again</p>",
+		"id":"531",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You look for clues. After some searchin you cannot find anything usefull. You decide to continue your journey through the forest </p>",
+		"id":"532",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You hear a river gushing nearby, but you can see nothing much as it is nearly night time and the cnopy is blocking most of the sunlight.</p>",
+		"id":"533",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You continue trudging through the woods looking for any clues about Evelyn</p>",
+		"id":"534",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You enter the town known as <b>Riverstead</b>. You look around and see that this town is highly gaurded but still not many people live here. The only prominent buildings are a shop, an inn having a bar, and a few houses.But since there is not much to do here you restock and continue on your journey and enter the woods again</p>",
+		"id":"541",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You look for clues. After some searchin you cannot find anything usefull. You decide to continue your journey through the forest </p>",
+		"id":"542",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You hear a river gushing nearby, but you can see nothing much as it is nearly night time and the cnopy is blocking most of the sunlight.</p>",
+		"id":"543",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You continue trudging through the woods looking for any clues about Evelyn</p>",
+		"id":"544",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You leave the town and continue your journey through the woods looking for clues about Evelyn</p>",
+		"id":"5111",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You ask around for any clues about Evelyn.You fail to find anything new.You dicide to move into the woods</p>",
+		"id":"5112",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You ask around about Evelyn, trying to find out anything about her which may help you find her. You dont find out much about her. Unstatisfied you leave the town and Continue deeper into the Bright Woods </p>",
+		"id":"5113",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"you wait for the bar to open.After waiting for an hour you understand that it will not be opening anytime soon so you go to bright woods</p>",
+		"id":"5114",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You leave the town and continue your journey through the woods looking for clues about Evelyn</p>",
+		"id":"5121",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You go to the Inn <b>Goat Cheese</b>. You meet the owner, he says' The Goat Cheese is full and the bar is currently closed. I am sorry i can not be of any use to you'. Since you do not have anything to do in the town you continue your journey through the Bright Woods.</p>",
+		"id":"5122",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You go to the bar called <b>High Noon</b>.When you reach the entrance of the bar you find out that the bar is closed currently. After some inquiries you learn that it would take a long time before the bar reopens. Since you do not have anything to do in the town you continue your journey through the Bright Woods.</p>",
+		"id":"5123",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You ask around the town for any information on Evelyn. After quite some searching you found nothing new. Since you do not have anything to do in the town you continue your journey through the Bright Woods.</p>",
+		"id":"5124",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+
+	},
+	{
+		"text":"<p>You leave the town and continue your journey through the woods looking for clues about Evelyn</p>",
+		"id":"5131",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You go to the Inn <b>Goat Cheese</b>. You meet the owner, he says' The Goat Cheese is full and the bar is currently closed. I am sorry i can not be of any use to you'. Since you do not have anything to do in the town you continue your journey through the Bright Woods.</p>",
+		"id":"5132",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You go to the bar called <b>High Noon</b>.When you reach the entrance of the bar you find out that the bar is closed currently. After some inquiries you learn that it would take a long time before the bar reopens. Since you do not have anything to do in the town you continue your journey through the Bright Woods.</p>",
+		"id":"5133",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You ask around the town for any information on Evelyn. After quite some searching you found nothing new. Since you do not have anything to do in the town you continue your journey through the Bright Woods.</p>",
+		"id":"5134",
+		"opt1":"Go to left",
+		"opt2":"Go to right",
+		"opt3":"Go to north",
+		"opt4":"Go to south",
+		"type":"w",
+		"end":"yes"
+
+	},
+	{
+		"text":"<p>You break through the foliage and come to the ruins of a <b>hunting lodge</b>. You sense some movement in the lodge. You look arround to see two pairs of footsteps. You fell something is amiss.<br> You stealthily move towards the walls of the hunting lodge. You try to peek inside through a small broken window. You see a girl is tied up and a man standing guard nearby. You recognize the girl to be Evelyn and the man to be Alex. You find this sight a lot confusing. You gather the fact that Evelyn did not run away but instead was kidnapped by Alex.</p>",
+		"id":"61",
+		"opt1":"Stealth: Rescue Evelyn, run away",
+		"opt2":"Barge in: Demanding a reason from Alex",
+		"opt3":"Barge in: Kill everyone present",
+		"opt4":"Stealth: Kill everyone present",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You break through the foliage and come to the ruins of a <b>hunting lodge</b>. You sense some movement in the lodge. You look arround to see two pairs of footsteps. You fell something is amiss.<br> You stealthily move towards the walls of the hunting lodge. You try to peek inside through a small broken window. You see a girl is tied up and a man standing guard nearby. You recognize the girl to be Evelyn and the man to be Alex. You find this sight a lot confusing. You gather the fact that Evelyn did not run away but instead was kidnapped by Alex.</p>",
+		"id":"62",
+		"opt1":"Stealth: Rescue Evelyn, run away",
+		"opt2":"Barge in: Demanding a reason from Alex",
+		"opt3":"Barge in: Kill everyone present",
+		"opt4":"Stealth: Kill everyone present",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You break through the foliage and come to the ruins of a <b>hunting lodge</b>. You sense some movement in the lodge. You look arround to see two pairs of footsteps. You fell something is amiss.<br> You stealthily move towards the walls of the hunting lodge. You try to peek inside through a small broken window. You see a girl is tied up and a man standing guard nearby. You recognize the girl to be Evelyn and the man to be Alex. You find this sight a lot confusing. You gather the fact that Evelyn did not run away but instead was kidnapped by Alex.</p>",
+		"id":"63",
+		"opt1":"Stealth: Rescue Evelyn, run away",
+		"opt2":"Barge in: Demanding a reason from Alex",
+		"opt3":"Barge in: Kill everyone present",
+		"opt4":"Stealth: Kill everyone present",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You break through the foliage and come to the ruins of a <b>hunting lodge</b>. You sense some movement in the lodge. You look arround to see two pairs of footsteps. You fell something is amiss.<br> You stealthily move towards the walls of the hunting lodge. You try to peek inside through a small broken window. You see a girl is tied up and a man standing guard nearby. You recognize the girl to be Evelyn and the man to be Alex. You find this sight a lot confusing. You gather the fact that Evelyn did not run away but instead was kidnapped by Alex.</p>",
+		"id":"64",
+		"opt1":"Stealth: Rescue Evelyn, run away",
+		"opt2":"Barge in: Demanding a reason from Alex",
+		"opt3":"Barge in: Kill everyone present",
+		"opt4":"Stealth: Kill everyone present",
+		"type":"nw",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You move in stealthily keeping to the shadows, out of sight from any one present in there. You make some headway but then somehow you knock down a candle cause a bit to noise. Noise loud enough to alert the people about the presence on an intruder. Having no other option you give up stealth and try to move in towards Evelyn killing anyone in your path. You see Alex running away from the back door</p>",
+		"id":"71",
+		"opt1":"Move towards Evelyn. Rescue her",
+		"opt2":"Free Evelyn. Chase Alex",
+		"opt3":"Chase Alex",
+		"opt4":"Free Evelyn. Go back to Magisterate",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You barge in, announcing your presence clearly. Demanding a reason for kindnapping of Evelyn from Alex. He says nothing but just simply moves out from the back boor, While you are busy with the others.</p>",
+		"id":"72",
+		"opt1":"Move towards Evelyn. Rescue her",
+		"opt2":"Free Evelyn. Chase Alex",
+		"opt3":"Chase Alex",
+		"opt4":"Free Evelyn. Go back to Magisterate",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You barge in, announcing your presence clearly. Enraged by the fact that it was Alex who kidnapped Evelyn. You kill anything in you path until you reach Evelyn. Sometime during the fight Alex runs aways from the backdoor.</p>",
+		"id":"73",
+		"opt1":"Move towards Evelyn. Rescue her",
+		"opt2":"Free Evelyn. Chase Alex",
+		"opt3":"Chase Alex",
+		"opt4":"Free Evelyn. Go back to Magisterate",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You move inside the lodge stealthily, kill anyone in your path without making much noise. then somehow you knock down a candle cause a bit to noise. Noise loud enough to alert the people about the presence on an intruder. Having no other option you give up stealth and try to move in towards Evelyn killing anyone in your path. You see Alex sneaking out the back door</p>",
+		"id":"74",
+		"opt1":"Move towards Evelyn. Rescue her",
+		"opt2":"Free Evelyn. Chase Alex",
+		"opt3":"Chase Alex",
+		"opt4":"Free Evelyn. Go back to Magisterate",
+		"type":"w",
+		"end":"yes"
+	},
+	{
+		"text":"<p>You kill everyone in the lodge and then rescue Evelyn. She says, 'Thank You, I do not know what I would have done if it was not for your timely arival. I owe you my life. I donn not know what drove alex to do such a thing.' You calm her down and then decide to go to <b>Caindel</b>.<br> You retun safely. When the Magisterate sees his daughter he says, 'Thank you for rescuing Evelyn. It seems her disappearance was more than two lovers running into the woods. I thank you and ask for your discretion in this matter. The Baron is still planning his visit tomorrow and he expects to see his son here as well. I don’t know if he had a hand in these matters. I will need to tread carefully as he is a powerful man and not someone I wish to cross. As promised here is your payment. I would ask that you stay about <b>Caindel</b> as I may have further use for your services. I am also very pleased with the way you handled the job so im increasing the reward to <b>10000</b>'.<br><br><span style='red'><h3>FIN</h3></span></p>",
+		"id":"81",
+		"opt1":"",
+		"opt2":"",
+		"opt3":"",
+		"opt4":"",
+		"type":"nw",
+		"end":"fin"
+	},
+	{
+		"text":"<p>You kill everyone in the lodge and after rescueing Evelyn try to chase after ALex, but Evelyn stops you and says, 'Thank You, I do not know what I would have done if it was not for your timely arival. I owe you my life. I donn not know what drove alex to do such a thing. Please do not leave me alone here. You can find Alex later but first take me to saftey.' You calm her down and then decide to go to <b>Caindel</b>.<br> You retun safely. When the Magisterate sees his daughter he says, 'Thank you for rescuing Evelyn. It seems her disappearance was more than two lovers running into the woods. I thank you and ask for your discretion in this matter. The Baron is still planning his visit tomorrow and he expects to see his son here as well. I don’t know if he had a hand in these matters. I will need to tread carefully as he is a powerful man and not someone I wish to cross. As promised here is your payment. I would ask that you stay about <b>Caindel</b> as I may have further use for your services. I am also very pleased with the way you handled the job so im increasing the reward to <b>10000</b>'.<br><br><span style='red'><h3>FIN</h3></span></p>",
+		"id":"82",
+		"opt1":"",
+		"opt2":"",
+		"opt3":"",
+		"opt4":"",
+		"type":"nw",
+		"end":"fin"
+	},
+	{
+		"text":"<p>You kill everyone in the lodge and after rescueing Evelyn try to chase after ALex, but Evelyn stops you and says, 'Thank You, I do not know what I would have done if it was not for your timely arival. I owe you my life. I donn not know what drove alex to do such a thing. Please do not leave me alone here. You can find Alex later but first take me to saftey.' You calm her down and then decide to go to <b>Caindel</b>.<br> You retun safely. When the Magisterate sees his daughter he says, 'Thank you for rescuing Evelyn. It seems her disappearance was more than two lovers running into the woods. I thank you and ask for your discretion in this matter. The Baron is still planning his visit tomorrow and he expects to see his son here as well. I don’t know if he had a hand in these matters. I will need to tread carefully as he is a powerful man and not someone I wish to cross. As promised here is your payment. I would ask that you stay about <b>Caindel</b> as I may have further use for your services. I am also very pleased with the way you handled the job so im increasing the reward to <b>10000</b>'.<br><br><span style='red'><h3>FIN</h3></span></p>",
+		"id":"83",
+		"opt1":"",
+		"opt2":"",
+		"opt3":"",
+		"opt4":"",
+		"type":"nw",
+		"end":"fin"
+	},
+	{
+		"text":"<p>You kill everyone in the lodge and then rescue Evelyn. She says, 'Thank You, I do not know what I would have done if it was not for your timely arival. I owe you my life. I donn not know what drove alex to do such a thing.' You calm her down and then decide to go to <b>Caindel</b>.<br> You retun safely. When the Magisterate sees his daughter he says, 'Thank you for rescuing Evelyn. It seems her disappearance was more than two lovers running into the woods. I thank you and ask for your discretion in this matter. The Baron is still planning his visit tomorrow and he expects to see his son here as well. I don’t know if he had a hand in these matters. I will need to tread carefully as he is a powerful man and not someone I wish to cross. As promised here is your payment. I would ask that you stay about <b>Caindel</b> as I may have further use for your services. I am also very pleased with the way you handled the job so im increasing the reward to <b>10000</b>'.<br><br><span style='red'><h3>FIN</h3></span></p>",
+		"id":"84",
+		"opt1":"",
+		"opt2":"",
+		"opt3":"",
+		"opt4":"",
+		"type":"nw",
+		"end":"fin"
+	}
+]
+}
